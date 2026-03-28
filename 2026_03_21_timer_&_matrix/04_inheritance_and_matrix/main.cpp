@@ -18,7 +18,7 @@ int main() {
 		com1 = com2;
 	}*/
 	
-	const int size = 3000;
+	const int size = 5000;
 	/*{
 		std::cout << std::endl;
 		std::cout << "Наследование сложения" << std::endl;
